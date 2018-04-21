@@ -1,3 +1,5 @@
+https://kucharskimaciej.github.io/devmeetings-react-redux-workshop/#/1
+
 Agenda
 ES2015+
 
